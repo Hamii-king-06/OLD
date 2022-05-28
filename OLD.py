@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from Texi import Main
+        from Texi64 import Main
 
         Main()
 
