@@ -16,14 +16,14 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from Texi import fuck
+        from Texi import Main
 
-        fuck()
+        Main()
 
  
 
 elif bit == "32bit":
 
-        from Texi import xmmx
+        from Texi import Main
 
-        xmmx()
+        Main()
