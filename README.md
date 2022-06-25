@@ -1,5 +1,5 @@
 # OLD
-![https://github.com/Hamii-king-06/OLD/blob/main/Screenshot_20220624-142600.png](https://https://github.com/Hamii-king-06/OLD/blob/612e0374a53b62177e6ecf7896b3fb6eb81d9098/Screenshot_20220624-142600.png)
+![Screenshot_20220624-142600.png](https://https://github.com/Hamii-king-06/OLD/blob/612e0374a53b62177e6ecf7896b3fb6eb81d9098/Screenshot_20220624-142600.png)
 # INSTALLATIONS
 
 - `pkg update`
